@@ -1,0 +1,129 @@
+ 
+.Dcontainer {
+    height: 320px;
+    
+width: 1264px;
+
+overflow-x: auto;
+white-space: nowrap;
+
+background-color: #f5f5f5;
+}
+.Drestaurant {
+display: inline-block;
+width:320px;
+height:270px;
+box-shadow: 12px 12px 10px rgba(0, 0, 0, 0.747); 
+background-color: #ccc;
+margin-right: 30px;
+margin-top: 15px;
+border-radius: 10px;
+overflow: hidden;
+cursor: pointer;
+transition: transform 0.3s ease;
+}
+#Inspiration-img1{
+     
+    background-image: url(https://b.zmtcdn.com/data/o2_assets/d0bd7c9405ac87f6aa65e31fe55800941632716575.png);
+    background-size: fixed;  
+                
+    
+}
+
+#Inspiration-img2 {
+     
+    background-image: url(https://b.zmtcdn.com/data/dish_images/197987b7ebcd1ee08f8c25ea4e77e20f1634731334.png );
+    background-size: cover;
+    
+}
+
+#Inspiration-img3 {
+     
+    background-image: url(https://b.zmtcdn.com/data/dish_images/ccb7dc2ba2b054419f805da7f05704471634886169.png );
+    background-size: cover;
+    
+}
+#Inspiration-img4 {
+     
+    background-image: url(https://b.zmtcdn.com/data/o2_assets/e444ade83eb22360b6ca79e6e777955f1632716661.png );
+    background-size: cover;
+    
+}
+#Inspiration-img5 {
+     
+    background-image: url(https://b.zmtcdn.com/data/o2_assets/52eb9796bb9bcf0eba64c643349e97211634401116.png );
+    background-size: fixed;
+    
+}
+#Inspiration-img6 {
+     
+    background-image: url(https://b.zmtcdn.com/data/o2_assets/8dc39742916ddc369ebeb91928391b931632716660.png );
+    background-size: cover;
+    
+}
+#Inspiration-img7 {
+     
+    background-image: url(https://b.zmtcdn.com/data/dish_images/d5ab931c8c239271de45e1c159af94311634805744.png );
+    background-size: cover;
+    
+}
+#Inspiration-img8 {
+     
+    background-image: url(https://b.zmtcdn.com/data/o2_assets/019409fe8f838312214d9211be010ef31678798444.jpeg );
+    background-size: cover;
+    
+}
+
+
+
+
+
+
+.resto{
+    height: auto;
+    width: 1260px;
+}
+
+.details{
+    height:370px;
+    width: 27.2%;
+    float: left;
+    margin-top:60px;
+    margin-bottom: 20px;
+    margin-left: 35px;
+    margin-right:35px;
+    background-color: rgba(248, 248, 250, 0.774);
+}
+.restopohto{
+    
+    height: 250px;
+    overflow: hidden;
+    background-color: #ccc;
+    border-radius: 10px;
+}    
+.restoname{
+    height:120px ;
+    width: 100%;
+}
+
+
+
+#restodetailsd{
+    height:110px;
+    color: rgba(12, 11, 11, 0.945);
+    font-size: 15px;
+    text-shadow: 2px 0px 7px #cf420b; 
+      
+     
+    border-radius: 10px;
+    background-color: rgba(136, 115, 115, 0);
+}
+ 
+.details:hover{
+    border-radius: 10px;
+    background: #6159594d;
+    transform: scale(1.1);
+    box-shadow:4px 4px 5px #1817179a;
+    
+}
+ 
